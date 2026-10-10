@@ -7,7 +7,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |S.Kavin muthuvel                       |    CB.EN.U4EEE26033                 |     Male         |  b.tech EEE                               |  
-|    Member 2     |   Shanthibhushan V                       |  (CB.EN.U4EEE26034)               |    Male             |                           b.tech EEE      |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|    Member 2     |   Shanthibhushan V                       |  CB.EN.U4EEE26034              |    Male             |                           b.tech EEE      |  
+|    Member 3     |Mugilan N                          |  CB.EN.U4EEE26020                      |   Male              |  b.tech EEE                               |  
+|    Member 4     |      M K Harini                    |     CB.EN.U4EEE26016                   |    Male             |    b.tech EEE                             |   
 
