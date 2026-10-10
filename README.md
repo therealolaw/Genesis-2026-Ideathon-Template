@@ -6,8 +6,8 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |S.Kavin muthuvel        CB.EN.U4EEE26033                 |    Male                    |     b.techEEE           |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
+|   Team Leader   |S.Kavin muthuvel                       |    CB.EN.U4EEE26033                 |     Male         |  b.tech EEE                               |  
+|    Member 2     |   Shanthibhushan V                       |  (CB.EN.U4EEE26034)               |    Male             |                           b.tech EEE      |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 
